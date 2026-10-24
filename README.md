@@ -9,9 +9,7 @@
 Junming Zhang · Shancheng Jiang  
 Sun Yat-sen University
 
-[![Paper](https://img.shields.io/badge/Paper-Open_Access-b31b1b.svg)](https://papers.miccai.org/miccai-2025/paper/1652_paper.pdf)
-[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--04937--7__23-blue.svg)](https://doi.org/10.1007/978-3-032-04937-7_23)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.1.2-EE4C2C.svg)](https://pytorch.org/get-started/previous-versions/)
+[![Paper](https://img.shields.io/badge/Paper-Open_Access-b31b1b.svg)](https://papers.miccai.org/miccai-2025/paper/1652_paper.pdf) [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--3--032--04937--7__23-blue.svg)](https://doi.org/10.1007/978-3-032-04937-7_23) [![PyTorch](https://img.shields.io/badge/PyTorch-2.1.2-EE4C2C.svg)](https://pytorch.org/get-started/previous-versions/)
 
 **[Overview](#overview) · [Installation](#installation) · [Data](#data-preparation) · [Training](#training) · [Testing](#testing) · [Citation](#citation)**
 
